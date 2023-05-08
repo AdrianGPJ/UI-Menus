@@ -20,13 +20,13 @@ There are many different types of User Interfaces, including graphical user inte
 
 There are several important qualities that a User Interface (UI) should possess in order to be effective and user-friendly. Here are some of the most essential qualities:
 
--Clarity: The UI should be clear and easy to understand, with clearly labeled icons, buttons, and menus that are easily recognizable to users.
--Consistency: The UI should be consistent in its design and layout, with a consistent color scheme, font, and overall look and feel.
--Responsiveness: The UI should be responsive, meaning that it should respond quickly and efficiently to user input, with minimal lag time or delay.
--Intuitiveness: The UI should be intuitive, with a logical and easy-to-follow flow that allows users to easily accomplish their tasks without confusion.
--Accessibility: The UI should be accessible to all users, regardless of their abilities or disabilities. This means designing the UI with features such as keyboard shortcuts, high contrast mode, and support for screen -readers.
--Aesthetics: The UI should be visually appealing, with an attractive and pleasing design that engages users and encourages them to use the product.
--Error handling: The UI should have clear and concise error messages that help users understand what went wrong and how to fix it, without causing frustration or confusion.
+- Clarity: The UI should be clear and easy to understand, with clearly labeled icons, buttons, and menus that are easily recognizable to users.
+- Consistency: The UI should be consistent in its design and layout, with a consistent color scheme, font, and overall look and feel.
+- Responsiveness: The UI should be responsive, meaning that it should respond quickly and efficiently to user input, with minimal lag time or delay.
+- Intuitiveness: The UI should be intuitive, with a logical and easy-to-follow flow that allows users to easily accomplish their tasks without confusion.
+- Accessibility: The UI should be accessible to all users, regardless of their abilities or disabilities. This means designing the UI with features such as keyboard shortcuts, high contrast mode, and support for screen -readers.
+- Aesthetics: The UI should be visually appealing, with an attractive and pleasing design that engages users and encourages them to use the product.
+- Error handling: The UI should have clear and concise error messages that help users understand what went wrong and how to fix it, without causing frustration or confusion.
 
 Overall, an effective UI should provide a positive user experience by being easy to use, efficient, and visually pleasing.
 
