@@ -74,4 +74,3 @@ Overall, the visual design of UI menus should prioritize usability and clarity, 
 
 The specific input method for controlling UI menus can vary depending on the game's platform and the developer's design choices. In some cases, players may be able to customize the control scheme to their preference.
 
-PowerPoint used during live presentation : [embed]https://github.com/AdrianGPJ/UI-Menus/blob/main/RPG%20UI%20Menus%20-%20Adrián%20Ponce.pdf[/embed]
